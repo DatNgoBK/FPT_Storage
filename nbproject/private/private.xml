@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+<<<<<<< HEAD
+            <file>file:/C:/Users/Dat/Desktop/New%20folder%20(4)/ftp_storage/src/server/ftpServer/Server.java</file>
+            <file>file:/C:/Users/Dat/Desktop/New%20folder%20(4)/ftp_storage/src/client/ftpClient/ClientFrame.java</file>
+            <file>file:/C:/Users/Dat/Desktop/New%20folder%20(4)/ftp_storage/src/server/ftpServer/ServerThread.java</file>
+            <file>file:/C:/Users/Dat/Desktop/New%20folder%20(4)/ftp_storage/src/client/ftpClient/Client.java</file>
+            <file>file:/C:/Users/Dat/Desktop/New%20folder%20(4)/ftp_storage/src/server/ftpServer/ServerGui.java</file>
+=======
+            <file>file:/E:/gitfolder/ftp_storage/src/client/ftpClient/ClientFrame.java</file>
+            <file>file:/E:/gitfolder/ftp_storage/src/server/ftpServer/ServerThread.java</file>
+            <file>file:/E:/gitfolder/ftp_storage/src/client/ftpClient/ProgressFrame.java</file>
+            <file>file:/E:/gitfolder/ftp_storage/src/client/ftpClient/MainFrame.java</file>
+            <file>file:/E:/gitfolder/ftp_storage/src/client/ftpClient/KGradientPanel.java</file>
+            <file>file:/E:/gitfolder/ftp_storage/src/server/ftpServer/Server.java</file>
+            <file>file:/E:/gitfolder/ftp_storage/src/server/ftpServer/FileAssert.java</file>
+            <file>file:/E:/gitfolder/ftp_storage/src/client/ftpClient/Main.java</file>
+            <file>file:/E:/gitfolder/ftp_storage/src/client/ftpClient/UploadThread.java</file>
+            <file>file:/E:/gitfolder/ftp_storage/src/client/ftpClient/DownloadThread.java</file>
+            <file>file:/E:/gitfolder/ftp_storage/src/client/ftpClient/ProgressPanel.java</file>
+            <file>file:/E:/gitfolder/ftp_storage/src/client/ftpClient/FolderTreeCellRenderer.java</file>
+            <file>file:/E:/gitfolder/ftp_storage/src/client/ftpClient/icons8-document-filled-100.png</file>
+            <file>file:/E:/gitfolder/ftp_storage/src/client/ftpClient/MyTreeNode.java</file>
+>>>>>>> f4a42a4347216dc606b1d4169b693cbc06b2225d
+        </group>
+    </open-files>
+</project-private>
